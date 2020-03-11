@@ -4,13 +4,13 @@ This is a derivative of Borti4938's N64RGBv1 project. The layout of the board is
 
 This is a hardware only dirivative of the N64RGBv1 project, it uses the stock N64RGBv1 firmware provided by Borti4938.  
 
-# Features
+### Features
 - Support for different CPLDs on a common PCB design:
   * MaxII EPM240T100C5
   * MaxII EPM570T100C5
   This PCB does not support MAX V CPLDs.
   
-# Changes compared to N64RGBv1
+### Changes compared to N64RGBv1
 - Removed Compoenets:
   * Pads for U3, C31, C32 have been removed, thus removing support for MAX V CPLDs
   * VCC pad removed.
