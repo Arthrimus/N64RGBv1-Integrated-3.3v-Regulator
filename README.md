@@ -43,3 +43,6 @@ This is a hardware only derivative of the N64RGBv1 project, it uses the stock N6
 ### Firmware
  - This project uses Borti4938's stock N64RGBv1 firmware located [here](https://github.com/borti4938/n64rgb/tree/master/generalRGBmod/firmware)
    * If you don't want to compile your own firmware files, you can use the compiled firmware file that matches your CPLD type [here](https://github.com/borti4938/n64rgb/tree/master/generalRGBmod/firmware/output_files/v1)
+   
+### Acknowledgements
+Thanks to Borti4938, who's N64RGBv1 project provided the basis for these modifications. You can check that original project out [here](https://github.com/borti4938/n64rgb). Also thanks to viletim for his initial CPLD based DAC project. You can check that out [here](http://etim.net.au/n64rgb/)
